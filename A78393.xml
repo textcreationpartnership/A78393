@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A caution to keepe money: shewing the miserie of the want thereof. I. In a state or kingdome, to supply vvarre. II. In younger brothers pawning their lands, to redeeme them. III. In shopkeepers wanting stock to supply. IIII. In handicraft-trades by negligence. V. In handsome and honest maidens, wanting portions. Declaring their slight neglect and scorne in these hard and dangerous times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78393</idno>
+            <idno type="STC">Wing C1560</idno>
+            <idno type="STC">Thomason E146_21</idno>
+            <idno type="STC">ESTC R212721</idno>
+            <idno type="EEBO-CITATION">99871301</idno>
+            <idno type="PROQUEST">99871301</idno>
+            <idno type="VID">156662</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78393)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156662)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E146[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A caution to keepe money: shewing the miserie of the want thereof. I. In a state or kingdome, to supply vvarre. II. In younger brothers pawning their lands, to redeeme them. III. In shopkeepers wanting stock to supply. IIII. In handicraft-trades by negligence. V. In handsome and honest maidens, wanting portions. Declaring their slight neglect and scorne in these hard and dangerous times.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Lindsey, and are to be sold by F. Coules, I. Wright, and T. Bates,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dowry --  England --  Early works to 1800.</term>
+               <term>Saving and investment --  Great Britain --  Early works to 1800.</term>
+               <term>England --  Economic conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156662:1" rendition="simple:additions"/>
+            <p>A CAVTION TO KEEPE MONEY: Shewing the Miſerie of the want thereof.</p>
+            <list>
+               <item>I. In a State or Kingdome, to ſupply VVarre.</item>
+               <item>II. In younger Brothers pawning their Lands, to redeeme them.</item>
+               <item>III. In Shopkeepers wanting Stock to Supply.</item>
+               <item>IIII. In Handicraft-trades by negligence.</item>
+               <item>V. In Handſome and honeſt Maidens, wanting Portions.</item>
+            </list>
+            <p>Declaring their ſlight neglect and ſcorne in theſe hard and dangerous Times.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Lindſey,</hi> and are to be ſold by <hi>F. Coules, I. Wright,</hi> and <hi>T. Bates.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:156662:2"/>
+            <head>The Miſerie of the want of Money in this Age.</head>
+            <p>SIr <hi>Thomas Moore</hi> of famous Memorie when he was to be carried priſoner to the Tower, fil'd his pockets with Gold, ſaying that whetherfoever hee went hee lov'd to have his friends about him: If hee could ſay ſo then, I be<g ref="char:EOLhyphen"/>leeve verily were hee now living in our miſerable and remiſſe times, hee would turne all hee had, yea his verie Librarie ſo deare unto him into money that hee might finde friends in theſe dayes; true friendſhip being now like unto <hi>Homers Mo<g ref="char:EOLhyphen"/>ly,</hi> an Hearbe ſo extreamly rare, that it is hardly or never to be found, wherefore next unto the Divine Providence, ac<g ref="char:EOLhyphen"/>count of your money as of another Mother to breede you and feede you, another Miſtris to make your heart merrie with hir lookes, another Maide to keepe cleane your Houſe &amp; linnen, to buy your meate in the Market, to attend you in you ſick<g ref="char:EOLhyphen"/>neſſe, and performe all other duties befitting you: For without her you ſhall finde nothing in the World (as the world goeth now) but ſcorne and contempt, not onely of Strangers, but of your neareſt kindred; I know want of Money to be an E<g ref="char:EOLhyphen"/>pidemicall Diſeaſe raging like the ſweating ſickneſſe of late yeares) over the whole land, all from the higheſt to the loweſt feeling the miſſe of it, which cauſeth other Monied Nations and our Enemies to ſmile at us. For m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt true it is, that <hi>In ſe nil infoelicus paupertas habet, quam quod homines ridiculos facit,</hi> the worſt property poverty hath in it ſelfe is, that it maketh men laughing ſtockes. It maketh men moreover vicious and diſſolute, prone to commit all enormities, abuſing and
+<pb n="3" facs="tcp:156662:2"/>making the gentleſt and verie beſt natures to be bad, and to take all manner of ill courſes: <hi>Oh mala paup<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtas vitii ſoleriſque miniſtra,</hi> ſaith honeſt and plaine <hi>Nantuan,</hi> which were they put and maintained in an honeſt courſe of Trade or Study their wants being by friends ſupplyed, they would die a thou<g ref="char:EOLhyphen"/>ſand times rather, then yeelding to neceſsitie which is <hi>durum telum,</hi> runne into thoſe lamentable errors as often times they doe, I have knowne many young Gentlemen of prime and hopefull witts, who being caſt off young by baſe Parents or miſerable friends, for ſaving a charge hath beene driven to ſeeke their fortunes in the world with ſome ſmall ſome of mo<g ref="char:EOLhyphen"/>ney in their purſes, and the firſt place they come into is the Citie, where for want of experience, they are either cheated of their money, fall into ill company, and ſo drawne to all manner of vice, or are conſtrained to beg up and downe the ſtreets, then are preſſed either for Souldiers, or to ſerve in Newgate and Bridewell, and the number of them is not a few, who at this day are utterly brought to ruine through ths baſe penutiouſneſſe of hard and miſerable Parents and friends who rather part with ſo many children never to ſee nor heare of them againe, then with as many groates out of their Purſe.</p>
+            <div type="part">
+               <head>The Miſerie of a Stase or Kingdome wanting Money.</head>
+               <p>I Remember when <hi>Phillip</hi> the ſecond King of <hi>Spaine,</hi> had his <hi>Weſt-Indies</hi> and ſilver fleetes ſo plundered by the <hi>Engliſh</hi> and <hi>Hollander,</hi> he was driven to that neceſsity, that he was faine to breake, and to pay his Souldiers with braſſe money, where<g ref="char:EOLhyphen"/>upon grew ſuch mutinies and revolts among his Souldiers, that his enemies gained more of him at that time then in many yeares before.</p>
+               <p>The <hi>Suizzers</hi> ſerving a great Prince in the field when they ſhould fight, began to call for their pay, and would not ſtrike a ſtroke till they had it, but there was no monie to be had, and and notwithſtanding their Captaines and Generalls ſatisfied
+<pb n="4" facs="tcp:156662:3"/>them as well as they could with good words, their wrings off from their owne fingers, their gold chaines, jewells, and ſuch as they had, but all would not ſerve turne, they would not fall on, hereupon <hi>Guicciardine</hi> ſaith truely. <hi>Imposſibile a marmeg<g ref="char:EOLunhyphen"/>iarli Suitzari Senza infiniti denari:</hi> It is an impoſſible thing to mannage or rule the <hi>Suiſſe</hi> without infinite ſtore of Money where a State or Kingdome wanteth money as it often doth through many occaſions, as expence in warres, tranſporta<g ref="char:EOLhyphen"/>tions of moneys into forraigne Countries, as into the <hi>East-Indies</hi> and other places for feathers, china diſhes, ſilks, carpets, and the like, extreame taxes and impoſitions upon a Coun<g ref="char:EOLhyphen"/>trie, upon colourable and neceſſary ſeeming pretences, the al<g ref="char:EOLhyphen"/>lowance of baſe Monopolies, the too too laviſh bounty of Princes in their guifts to ſervants and ſtrangers the multitude of outlandiſh and forraigne inhabitants underhand tranſpor<g ref="char:EOLhyphen"/>ting our money, and enhauncing the ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me in their own coun<g ref="char:EOLhyphen"/>tries, with manie other the like occaſions, there are diſcon<g ref="char:EOLhyphen"/>tents, murmurings, oppoſitions, ſeditions, talking &amp; preach<g ref="char:EOLhyphen"/>ing libells, backwardnes in yeelding to any neceſſarie courſe to rectifie what is amiſſe, and in a word a generall <hi>torpor</hi> or cold numbedneſſe to any good for the Countrie.</p>
+               <p>
+                  <hi>Pecunia nervus b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lli,</hi> Money is the Sinnew of warre, which goeth lamely on without it, wherefore the wiſeſt Common wealthes as <hi>Genoa, Venice, &amp;c.</hi> will alwaies keepe full coffers, able not onely to holpe themſelves but their neighbour Prin<g ref="char:EOLhyphen"/>ces and friends, as <hi>Genoa</hi> the Spanyard, <hi>Venice</hi> the <hi>French,</hi> and ſo all others, for in Cities where monie is wanting, there tra<g ref="char:EOLhyphen"/>ding ceaſeth, Citizens breaking, trafique by ſea decaies, and in a word they eaſily become a pray to Tyrants and forraine enemies.</p>
+               <p>Leaving this generall inconveniene of want of Money, let us take a view of the particular miſerie of every private man that wants it, as well in regard of his livelihood as ſcorne and contempt in the world. <hi>Solomon</hi> ſaith, <hi>it is better to die then to
+<pb n="5" facs="tcp:156662:3"/>be poore,</hi> for poverty taketh away or eateth even the heart of a man, with hourely griefe and care, as neither knowing what nor where he ſhall eate, neither what he ſhall put on, for wanting cloathes he is ſubiect to all iniuries of the weather, and by conſequent to con<g ref="char:EOLhyphen"/>tinuall ſickneſſe, he is counted a diſgrace to other companies, he is iear'd and laughed at, forced to goe alone by himſelfe, take long and teadious journeies on foot, and if he goes farre to viſite friends they will hardly bid him welcome.</p>
+               <p>Nay, though he goe in good cloathes and hath beene knowne to be neceſſitous he ſhall be ſlighted, if he be invited to a Rich mans Table, he muſt be contented to take his place at the nether end, to be carved to the laſt, and of the worſt, and if ſometime the Miſtris of the feaſt ſhall offer him the firſt cut as of Brawne, Veniſon or the like it was that that lay at the bottome of the ſouce tub, if ve<g ref="char:EOLhyphen"/>niſon his peece was either tainted, or bruiſed in the carriage, if his bread be given him of the firſt cut of the loafe let him be aſſured it was either mouldie or Mouſeaten, when others diſcourſe he muſt be ſilent, or at the moſt whiſper in his eare who ſits next him, or to the waiter, if hee want drinke or any thing elſe, ar<g ref="char:EOLhyphen"/>riſe and leave his ſtoole at the comming in of the Baſon and Ewer, with a thouſand more inconveniences and miſeries which ever a<g ref="char:EOLhyphen"/>mate and accompanie the want of Money.</p>
+            </div>
+            <div type="part">
+               <head>Many reaſons to ſhew and proove that they who live in this our Age, are farre more miſerable, and in worſe condition then they who lived formerly, and in the time of our Fathers, and firſt of the eſtate of Scholers.</head>
+               <p>In the beginning of the Raigne of Queene <hi>Elizabeth</hi> of bleſſed memorie, learning was advanced and admired, no poore Scholler (though but meanely learned) but could get preferment, yea many times were ſought unto and entreated to take voide livin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, the Miniſters of the word were then had every where in great reve<g ref="char:EOLhyphen"/>rence, and welcomed of Noblemen, Knights, and gentlemen to their houſes, there being then no rent or Schiſme in the Church, except now and then ſuch braineſick fellowes as <hi>Penrie, Browne,
+<pb n="6" facs="tcp:156662:4"/>Coppinger,</hi> and ſome few other, who by night ſowed their cockle in holes &amp; corners, when Pluralities were hardly knowne or heard of, then wittie booke and Poems were publiſhed and high eſtee<g ref="char:EOLhyphen"/>med of and admired, rewarded In theſe dayes we find the contrarie of all. A poore Scholler now in want ſhall now never come to any preferment whiles he live, hee ſhall finde neither countenance nor entertainement among our great ones, without the helpe of moni<g ref="char:EOLhyphen"/>ed friends, Noblemen and our Gentry then tooke the dedication of books as honour unto them now no better then a begging, then was there, amongſt us, <hi>Cor unum via una,</hi> but now our hearts and waies are divided, as manie ſeverall opinions, as ſeverall faces, a Broome maker or Cobler ſhall have as much reſpect as a Scholler, and a baſe Ironmonger ſhall dare to affront the moſt learned Biſhop and that <hi>impune.</hi>
+               </p>
+               <p>Moſt miſerable is the eſtate of ſuch in theſe daies who by their unthriftie courſes have made away or ſold their lands and faire e<g ref="char:EOLhyphen"/>ſtates, the time was when ſuch have afterwards beene relieved and kept from want and begging by the purchaſer of their ſaid eſtates, but now woe be unto them if they have neither land nor mony left in theſe daies, they muſt doe as the Heires of <hi>Holland</hi> in <hi>Lincolne ſhire,</hi> when they have made a way to catch Pickerells in Dike, keepe a blinde Alehouſe, or turne foulecatchers in the fennes, or hang upon their friends for reliefe as long as they live; and of all ſorts of poore theſe deſerve the leaſt to be pittied, yet ſome times they ſhall be gathered for in Churches, and at other publike meetings, where God knowes they got in theſe times of ſo much imploy<g ref="char:EOLhyphen"/>ment for money, but a ſmall pitrance, for except in great Cities there is left little charity elſewhere.</p>
+               <p>Some having beene undone by craftie knaves whom they have employed as their Stewards or Bailies (who like young cuckowes grow many times to that greatneſſe that they are ready to devoure their feeder) have beene faine to ſtand to their courteſie for a poore maintenance all their lives after, and I have knowne ſome of theſe.</p>
+               <p>Others make themſelves contemptible and meere beggers by
+<pb n="7" facs="tcp:156662:4"/>marrying beneath their ranks and degrees, which in time they be<g ref="char:EOLhyphen"/>ing ſenſible of, they care not what they ſpend or give away to knaves and paraſites that hang about them, as one gets a leaſe of too or three hundred by them, another houſe and land for nothing perhaps for an hawke, a hound, or an horſe upon Mounſieur <hi>Acola<g ref="char:EOLhyphen"/>stus,</hi> and if he or ſuch a one comes to miſerie, eſpecially in a ſtrange Countrey there is none more miſerable then hee, by reaſon of his eſtate and riches he would never give himſelfe to learne or follow any as is the manner for the moſt part of our Engliſh breediug, that turne but himſelfe and a common fidler in their doublets and hoſe to ſeeke their fortunes in anothey Countrey: the Fidler in a very ſhort time would ſtarue the Gentleman, as having no art to earne his bread, whereas in other Countries the Gentrie are able to live without their hereditarie meanes by ſome profeſſion of the minde, or manuell trade or other. <hi>Rodolphe</hi> not long ſince Empe<g ref="char:EOLhyphen"/>rour of <hi>Germany,</hi> could ſet ſtones in Iewells, and was an excellent watchmaker. <hi>Soliman</hi> the great Turke, practiſed the trade of ma<g ref="char:EOLhyphen"/>king Arrowes heads. <hi>Mauris</hi> late Lantgrave of <hi>Heſſen</hi> was an ex<g ref="char:EOLhyphen"/>cellent compoſer in <hi>Muſick</hi> have made neere forty ſeverall Sets of Meeters or Church Songs, which upon feſtivall daies he himſelfe would play upon the Organs, others have beene rare Painters, o<g ref="char:EOLhyphen"/>ther excellent Chyrurgians and ſo of others in other Aarts and Sciences, ſo that in diſpite of hard fortune &amp; miſerie they can never be brought to extreme want, as knowing the greateſt Princes to have fallen from their Royall dignities, even to the meaneſt ſlave<g ref="char:EOLhyphen"/>rie, as <hi>Se Soſtris, Bagazet,</hi> and divers others.</p>
+               <p>Some ſo ſurfet of their fortunes, eſpecially if unexpectedly they fall unto them, that they have not the grace to uſe them as they ought, but conſumed them upon drinke, drabs, or playes, and af<g ref="char:EOLhyphen"/>ter to have fallen into that miſerie (even in our times) that they have ended their dies in ditches, countrey barnes, the Counters and ſuch like places.</p>
+               <p>The time hath beene when to have had a place in Court was e<g ref="char:EOLhyphen"/>ſteemed the <hi>Achme</hi> or higheſt pitch of preferment in the land, he was the prime man in the Pariſh where he liv'd, he was welcome in
+<pb n="8" facs="tcp:156662:5"/>a vacation to all the gentlemen and his neighbours hee had power in every office in the Court to bid his friend welcome, as the Pantrie Beere and wine<g ref="char:EOLhyphen"/>ſellers he could though but of the Guard, have commanded a peece of boyld Beefe for a breakefaſt, but <hi>Tempora mutantur et ie junamus in illis,</hi> he might formerly have obtained ſome ſuite of his prince, it is well if he can but get his owne due in money, which while he wanteth his caſe is hard and to be pittied, keeping as manie doe greate charges in the countrey.</p>
+               <p>The Tradeſman now hath not halfe that employment, nor is ſo readily and well paid for his commodities as in former times, there being little ſtore of mo<g ref="char:EOLhyphen"/>nie by reaſon of ſo many and ſo huge ſummes diſpoſed of this and that way, that the land it ſelfe is welnigh drawne dry, the pipes muſt needes bee ſtop't that ſhould derive it to the Citie, ſo Tradeſmen are compel'd to truſt, whereby they looſe nor a little.</p>
+               <p>Tenants in the Countrey have their rents ſo raiſed through ſcarcitie of mo<g ref="char:EOLhyphen"/>ney, and ſo many levies to the King and Countrey, that they can hardlie ſub<g ref="char:EOLhyphen"/>ſiſt to helpe themſelves or relieve the poore in their pariſh, hence beggerie is become an Epidemicall diſeaſe raigning over the whole land.</p>
+               <p>Servingmen in timns paſt have lived as well as their Maſters, gotten good leaſes and farmes under them, they could have go<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to ehe Kitchen of Butterie and bidden their kindred or friends welcome, but the pride and co<g ref="char:EOLhyphen"/>vetuouſneſſe of our age hath turned both them and their Maſters good houſe<g ref="char:EOLhyphen"/>keeping out of doores, ſo that they are conſtrained to verifie the old proverbe, <hi>a young Servingman, and an old Begger.</hi> What multitudes of beautifull and honeſt maides in this Land which the world cannot match againe for good qu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>li<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es and handſomeneſſe, are undone for want of portions to preferre them, for now <hi>genus &amp; formam regina pecunia donat,</hi> they are conſtrained to turne druges and ſlaves ſo long as they live, except God in his Providence taketh not care of them.</p>
+               <p>If a ſtranger commeth to the Citie or any other publicke and pop<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lus place, if his money faileth ſhort, hee were better to bee a Galley-ſlave and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive with bread and water, water he may get at the Cundit, but not a bit of bread ex<g ref="char:EOLhyphen"/>cept he paieth for it, ſuch is the tharity of our miſerable Age.</p>
+               <p>So for a concluſion, let no man caſt himſelfe upon friends, or the wide world, but endeavoring by all honeſt meanes to live, and to bee chargeable to as few as he can, let him referre the reſt to Gods Providence, who never failed thoſe who ſincerely ſerved and put their truſt in him.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
